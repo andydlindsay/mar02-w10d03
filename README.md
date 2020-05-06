@@ -6,9 +6,9 @@
 * [x] Primitive Types
 * [x] Arrays
 * [x] Objects
-* [ ] Functions
-* [ ] Duck Typing
-* [ ] Generics
+* [x] Functions
+* [x] Duck Typing
+* [x] Generics
 
 ### What is TypeScript?
 * Superset of JavaScript (this is something you can make)

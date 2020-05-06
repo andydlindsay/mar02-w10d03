@@ -27,3 +27,5 @@ const sayHello = (author: IAuthor, userId?: number, title?: string) => {
 };
 
 sayHello(agatha);
+
+export {};
